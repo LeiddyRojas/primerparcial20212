@@ -1,0 +1,25 @@
+img{
+	width: 300px;
+	display:block;
+	margin:auto;
+}
+
+p{
+	text-align: center;
+}
+
+#boton{
+	display:block;
+	margin:auto;
+  background: #2874A6;
+  color: #fff;
+  padding: 10px;
+   border: 1px solid #d0d0d0;
+   outline: none;
+   border-top-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+
+#boton:hover{
+  cursor: pointer;
+}
